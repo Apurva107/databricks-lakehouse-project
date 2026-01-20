@@ -20,21 +20,7 @@ The project follows the Medallion Architecture:
 
 **Architecture**
 
-Data Sources (CSV files)
-        ↓
-Bronze Layer (Unity Catalog)
-  - Schema: bronze
-  - Volume: raw_sources
-  - Tables: raw_*
-        ↓
-Silver Layer
-  - Schema: silver
-  - Cleaned & conformed tables
-        ↓
-Gold Layer
-  - Schema: gold
-  - Aggregated tables / dashboards
-
+!["C:\Users\Mahesh\OneDrive\Pictures\Screenshots\Screenshot (67).png"](path)
 
 ### Data Pipeline
 
