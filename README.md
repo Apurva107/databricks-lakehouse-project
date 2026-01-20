@@ -1,4 +1,4 @@
-# **  Bike Data Lakehouse Project**
+# Bike Data Lakehouse Project
 
 ## Overview
 This project implements a **Data Lakehouse** using **Databricks**, **Delta Lake**, and the **Medallion Architecture (Bronze, Silver, Gold)**.
