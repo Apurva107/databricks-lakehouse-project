@@ -18,7 +18,23 @@ The project follows the Medallion Architecture:
 - PySpark & Spark SQL
 - Databricks Jobs
 
-![]("C:\Users\Mahesh\OneDrive\Pictures\Screenshots\Screenshot (67).png")
+**Architecture**
+
+Data Sources (CSV files)
+        ↓
+Bronze Layer (Unity Catalog)
+  - Schema: bronze
+  - Volume: raw_sources
+  - Tables: raw_*
+        ↓
+Silver Layer
+  - Schema: silver
+  - Cleaned & conformed tables
+        ↓
+Gold Layer
+  - Schema: gold
+  - Aggregated tables / dashboards
+
 
 ### Data Pipeline
 
@@ -31,4 +47,4 @@ The project follows the Medallion Architecture:
 
 This project is inspired by  Databricks learning project from Baraa Projects.
 All credit for the original project concept and guidance goes to Baraa Projects.
-[](https://github.com/DataWithBaraa/databricks_bootcamp_2026)
+[https://github.com/DataWithBaraa/databricks_bootcamp_2026](url)
