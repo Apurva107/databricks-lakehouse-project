@@ -18,9 +18,6 @@ The project follows the Medallion Architecture:
 - PySpark & Spark SQL
 - Databricks Jobs
 
-**Architecture**
-
-!["C:\Users\Mahesh\OneDrive\Pictures\Screenshots\Screenshot (67).png"](path)
 
 ### Data Pipeline
 
