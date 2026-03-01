@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 This project involves building a production-grade **Data Lakehouse** from scratch using **Azure Databricks**. Following the **Medallion Architecture**, the pipeline ingests raw datasets and systematically transforms them through Bronze, Silver, and Gold layers to create a reliable, high-performance data platform for business intelligence.
 
+<img width="1000" height="667" alt="medd" src="https://github.com/user-attachments/assets/448f4698-6d48-4178-bff3-a48440cb9014" />
 
 
 ## 🛠️ Tech Stack
