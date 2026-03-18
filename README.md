@@ -1,4 +1,4 @@
-# End-to-End Data Lakehouse Implementation | Azure Databricks
+# End-to-End Data Lakehouse Implementation |  Databricks
 
 ## 📌 Project Overview
 This project involves building a production-grade **Data Lakehouse** from scratch using **Azure Databricks**. Following the **Medallion Architecture**, the pipeline ingests raw datasets and systematically transforms them through Bronze, Silver, and Gold layers to create a reliable, high-performance data platform for business intelligence.
