@@ -5,7 +5,7 @@ This project demonstrates an end-to-end data analytics workflow using Databricks
 
 The goal of this project is to extract business insights from sales and customer data and present them through interactive dashboards.
 
-<img width="1000" height="667" alt="medd" src="https://github.com/user-attachments/assets/448f4698-6d48-4178-bff3-a48440cb9014" 
+
 
 ## 🧠 Project Objectives
 - Explore structured data using SQL in Databricks
